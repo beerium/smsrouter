@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">短信路由器</string>
+    <string name="action_settings">设置</string>
+    <string name="id_start">COM.BEERIUM.ACTION.STARTSERVICE</string>
+    <string name="id_stop">COM.BEERIUM.ACTION.STOPSERVICE</string>
+    <string name="route_number">转移到号码：</string>
+    <string name="desc">请不要设置为本机号码，以免循环转发！</string>
+    <string name="save">保存</string>
+    <string name="start_service">启动转发服务</string>
+    <string name="stop_service">停止转发服务</string>
+
+    <string name="tip_service_started">服务已启动</string>
+    <string name="tip_service_stoped">服务已停止</string>
+    
+    <string name="start_voice_redirect">启动呼叫转移</string>
+    <string name="stop_voice_redirect">停止呼叫转移</string>
+    
+    <string name="tip_voice_redirect_started">呼叫转移已启动</string>
+    <string name="tip_voice_redirect_stoped">呼叫转移已停止</string>
+</resources>
